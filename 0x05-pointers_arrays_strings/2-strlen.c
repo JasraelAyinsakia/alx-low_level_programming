@@ -1,4 +1,4 @@
-#incude "main.h"
+#inlcude "main.h"
 #include <string.h>
 
 /**
